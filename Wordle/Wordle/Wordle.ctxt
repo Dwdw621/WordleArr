@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wordle
+comment1.params=input
+comment1.target=void\ check(java.lang.String)
+comment2.params=x
+comment2.target=java.lang.String\ toString(java.lang.String[])
+comment3.params=x
+comment3.target=java.lang.String[]\ toArray(java.lang.String)
+comment4.params=
+comment4.target=int\ returnLives()
+comment5.params=
+comment5.target=java.lang.String\ returnStorage()
+numComments=6
